@@ -44,7 +44,7 @@ The Netflix Titles Dataset contains information on 8,807 titles available on Net
 
 What is the distribution of Movies and TV Shows on Netflix?
 
-![Content Distribution](screenshots/content_distribution.png)
+![Content Distribution](Screenshots/content_distribution.png)
 
 ### Key Insight
 
@@ -59,7 +59,7 @@ What is the distribution of Movies and TV Shows on Netflix?
 
 How has Netflix's content library evolved over time?
 
-![Release Trend](screenshots/release_trend.png)
+![Release Trend](Screenshots/release_trend.png)
 
 ### Key Insight
 
@@ -74,7 +74,7 @@ How has Netflix's content library evolved over time?
 
 Which countries contribute the most content to Netflix?
 
-![Country Analysis](screenshots/country_analysis.png)
+![Country Analysis](Screenshots/country_analysis.png)
 
 ### Key Insight
 
@@ -89,7 +89,7 @@ Which countries contribute the most content to Netflix?
 
 What are the most common audience ratings on Netflix?
 
-![Ratings Analysis](screenshots/ratings_analysis.png)
+![Ratings Analysis](Screenshots/ratings_analysis.png)
 
 ### Key Insight
 
@@ -104,7 +104,7 @@ What are the most common audience ratings on Netflix?
 
 Which genres are most popular on Netflix?
 
-![Genre Analysis](screenshots/genre_analysis.png)
+![Genre Analysis](Screenshots/genre_analysis.png)
 
 ### Key Insight
 
@@ -119,7 +119,7 @@ Which genres are most popular on Netflix?
 
 Which columns contained missing values and how were they handled?
 
-![Missing Value Analysis](screenshots/missing_value_analysis.png)
+![Missing Value Analysis](Screenshots/missing_value_analysis.png)
 
 ### Key Insight
 
